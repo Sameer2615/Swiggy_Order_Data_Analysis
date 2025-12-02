@@ -1,6 +1,6 @@
 # Swiggy Order Data Analysis (SQL | PostgreSQL | Excel)
 
-https://github.com/Sameer2615/Swiggy_Order_Data_Analysis/blob/main/dashboard.png
+![SWIGGY](https://github.com/Sameer2615/Swiggy_Order_Data_Analysis/blob/main/dashboard.png)
 
 This project analyzes **197,000+ Swiggy food delivery records** using **PostgreSQL (PGAdmin4)** and **Excel** to uncover insights about customer behavior, restaurant performance, pricing trends, and food category patterns.
 
