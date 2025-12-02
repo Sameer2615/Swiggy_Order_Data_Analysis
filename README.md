@@ -1,6 +1,6 @@
 # Swiggy Order Data Analysis (SQL | PostgreSQL | Excel)
 
-![SWIGGY](https://github.com/Sameer2615/Swiggy_Order_Data_Analysis/blob/main/dashboard.png)
+![SWIGGY](https://github.com/Sameer2615/Swiggy_Order_Data_Analysis/blob/main/Swiggy.png)
 
 This project analyzes **197,000+ Swiggy food delivery records** using **PostgreSQL (PGAdmin4)** and **Excel** to uncover insights about customer behavior, restaurant performance, pricing trends, and food category patterns.
 
@@ -47,7 +47,11 @@ SQL queries used are available in the file:
   - High-demand categories  
   - Rating–price patterns  
   - Restaurant performance  
-  - Revenue trends  
+  - Revenue trends
+ 
+## 📷Dashboard Preview
+<img width="1905" height="777" alt="Sales Dashboard (2)" src="https://github.com/Sameer2615/Swiggy_Order_Data_Analysis/blob/main/dashboard.png" />
+---  
 
 ## ⭐ Key Insights
 - Weekends showed the highest order spikes.  
